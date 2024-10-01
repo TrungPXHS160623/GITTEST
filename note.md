@@ -9,6 +9,7 @@ git config user.email => kiểm tra email local
 
 Repository (Repo)
 Branch
+Conflict
 
 # Commands
 
@@ -23,3 +24,5 @@ Branch
 - git checkout master or "tên nhánh" 
 - git branch 
 - git checkout -b +"tên nhánh mới"
+- git merge +"tên của nhánh muốn merge"
+- git branch -d (branch name)
