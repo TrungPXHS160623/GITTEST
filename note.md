@@ -10,7 +10,8 @@ git config user.email => kiểm tra email local
 Repository (Repo)
 Branch
 Conflict
-
+Local
+Remote
 # Commands
 
 - git init 
@@ -27,3 +28,4 @@ Conflict
 - git merge +"tên của nhánh muốn merge"
 - git branch -d (branch name)
 - git commit 
+- git push
