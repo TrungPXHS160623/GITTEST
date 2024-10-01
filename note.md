@@ -8,6 +8,7 @@ git config user.email => kiểm tra email local
 # Terms
 
 Repository (Repo)
+Branch
 
 # Commands
 
@@ -18,4 +19,5 @@ Repository (Repo)
 - git commit -m +"nội dung muốn lưu"
 - git log
 - git log --oneline
-- git checkout +"id của commit muốn tới"
+- git checkout +"id của commit muốn back"
+- git checkout master or "tên nhánh" 
