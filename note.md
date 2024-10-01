@@ -29,3 +29,4 @@ Remote
 - git branch -d (branch name)
 - git commit 
 - git push
+- git push https://github.com/TrungPXHS160623/GITTEST.git master
