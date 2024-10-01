@@ -21,3 +21,5 @@ Branch
 - git log --oneline
 - git checkout +"id của commit muốn back"
 - git checkout master or "tên nhánh" 
+- git branch 
+- git checkout -b +"tên nhánh mới"
