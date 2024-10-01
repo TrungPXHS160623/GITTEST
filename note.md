@@ -26,3 +26,4 @@ Conflict
 - git checkout -b +"tên nhánh mới"
 - git merge +"tên của nhánh muốn merge"
 - git branch -d (branch name)
+- git commit 
