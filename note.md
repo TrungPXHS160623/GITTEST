@@ -13,6 +13,9 @@ Repository (Repo)
 
 - git init 
 - git status
-- git add "tên file" or git add .
+- git add +"tên file" or git add .
 - git reset 
-- git commit -m "nội dung muốn lưu"
+- git commit -m +"nội dung muốn lưu"
+- git log
+- git log --oneline
+- git checkout +"id của commit muốn tới"
